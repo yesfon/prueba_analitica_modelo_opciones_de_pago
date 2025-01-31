@@ -1,4 +1,4 @@
-# prueba_analitica_modelo_opciones_de_pago
+# Prueba Analítica Modelo Opciones de Pago
 
 ## Descripción
 
