@@ -41,7 +41,11 @@ Para descargar los datos desde Kaggle, cada usuario debe:
 Una vez instaladas las dependencias y configurado `kaggle.json`, ejecuta el proyecto con:
 
 ```bash
-python tu_script.py
+python preprocessing.py
+```
+Y luego ejecuta:
+
+```bash
+python ml_algorithm.py
 ```
 
-Asegúrate de que `tu_script.py` sea el archivo principal que orquesta el flujo del proyecto.
