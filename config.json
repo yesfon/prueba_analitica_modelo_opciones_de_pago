@@ -1,0 +1,38 @@
+{
+    "prueba_op_base_pivot_var_rpta_alt_enmascarado_trtest": [
+        "nit_enmascarado",
+        "num_oblig_enmascarado",
+        "fecha_var_rpta_alt",
+        "var_rpta_alt"
+    ],
+    "prueba_op_master_customer_data_enmascarado_completa": [
+        "nit_enmascarado",
+        "edad_cli",
+        "estado_civil",
+        "num_hijos",
+        "personas_dependientes",
+        "total_ing",
+        "tot_activos",
+        "tot_pasivos",
+        "cli_actualizado",
+        "egresos_mes",
+        "tot_patrimonio"
+    ],
+    "prueba_op_maestra_cuotas_pagos_mes_hist_enmascarado_completa": [
+        "nit_enmascarado",
+        "num_oblig_enmascarado",
+        "fecha_corte",
+        "valor_cuota_mes",
+        "pago_total",
+        "porc_pago",
+        "marca_pago"
+    ],
+    "prueba_op_probabilidad_oblig_base_hist_enmascarado_completa": [
+        "nit_enmascarado",
+        "num_oblig_enmascarado",
+        "fecha_corte",
+        "prob_propension",
+        "prob_alrt_temprana",
+        "prob_auto_cura"
+    ]
+}
